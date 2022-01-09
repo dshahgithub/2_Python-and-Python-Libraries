@@ -1,6 +1,6 @@
 # Python-and-Python-Libraries
 Python and Python Libraries  (https://pymotw.com/3/)
-##1. Text##
+1. Text
     string — Text Constants and Templates
     textwrap — Formatting Text Paragraphs
     re — Regular Expressions
